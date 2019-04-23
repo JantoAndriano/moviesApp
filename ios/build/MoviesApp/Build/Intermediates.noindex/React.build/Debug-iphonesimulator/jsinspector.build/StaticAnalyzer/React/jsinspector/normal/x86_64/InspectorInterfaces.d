@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/macbook/Documents/MoviesApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/macbook/Documents/MoviesApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/macbook/Desktop/moviesApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/macbook/Desktop/moviesApp/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

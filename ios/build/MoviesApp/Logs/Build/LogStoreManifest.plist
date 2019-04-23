@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>2041F084-BBBF-44FD-B2FC-DE6A70F3515D</key>
+		<key>A43E0BD7-9D4C-443C-9265-EE82BF5A915D</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,11 +15,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2041F084-BBBF-44FD-B2FC-DE6A70F3515D.xcactivitylog</string>
+			<string>A43E0BD7-9D4C-443C-9265-EE82BF5A915D.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>MoviesApp project</string>
@@ -30,45 +30,13 @@
 			<key>signature</key>
 			<string>Building project MoviesApp with scheme MoviesApp and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>577101515.22883701</real>
+			<real>577629549.94657195</real>
 			<key>timeStoppedRecording</key>
-			<real>577101528.73168099</real>
+			<real>577629625.70115995</real>
 			<key>title</key>
 			<string>Building project MoviesApp with scheme MoviesApp and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>2041F084-BBBF-44FD-B2FC-DE6A70F3515D</string>
-		</dict>
-		<key>52E3D7C6-9604-4552-95C1-F072440F27B0</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>52E3D7C6-9604-4552-95C1-F072440F27B0.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>MoviesApp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>MoviesApp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project MoviesApp with scheme MoviesApp and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>577010799.61467397</real>
-			<key>timeStoppedRecording</key>
-			<real>577010805.07500505</real>
-			<key>title</key>
-			<string>Building project MoviesApp with scheme MoviesApp and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>52E3D7C6-9604-4552-95C1-F072440F27B0</string>
+			<string>A43E0BD7-9D4C-443C-9265-EE82BF5A915D</string>
 		</dict>
 	</dict>
 </dict>
